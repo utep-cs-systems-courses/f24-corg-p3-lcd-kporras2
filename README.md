@@ -40,16 +40,16 @@ This project requires a development kit (dev kit) for the MSP430 microcontroller
 ## Images 
 
 ### Start Screen
-(add image here)
+![start_screen](https://github.com/user-attachments/assets/05fbcf8f-9b26-410f-b426-0427f76ba1f1)
 
 ### Cop Car Animation
-(add image here)
+![cop_car](https://github.com/user-attachments/assets/a3492044-2660-4e4f-a727-d13d37897126)
 
 ### Mary Had a Little Lamb
-(add image here)
+![marry_had_lamb](https://github.com/user-attachments/assets/e0f387c6-c6f4-4d34-8cc6-56fa576c38d0)
 
 ### Twinkle Twinkle Little Star
-(add image here)
+![twinkle_star](https://github.com/user-attachments/assets/b73c1ded-be05-43da-87b9-c6a51c493882)
 
 ### Stop Image
-(add image here)
+![stop](https://github.com/user-attachments/assets/f14bc4bd-c90b-4df5-97cb-a627d009a91f)
